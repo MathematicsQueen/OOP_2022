@@ -1,0 +1,7 @@
+import pygame
+from pygame.draw import *
+from mnogokoteik import *
+pygame.init()
+FPS = 30
+mnogokoteik()
+pygame_done()
